@@ -1,2 +1,2 @@
-# Python-Problems
+# Python_Solutions
 Here, we will solve python questions from various coding platforms. You can contribute your ideas...
